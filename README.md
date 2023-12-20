@@ -15,7 +15,7 @@
 
 ## 📞 Contact
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:leejun9829@naver.com">
+    <a href="mailto:wnd1200@naver.com">
         <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
     <!-- <a href="https://open.kakao.com/o/">
