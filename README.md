@@ -54,7 +54,7 @@
 
 ## ⭐️ Interest
 - **Main**: Java, Spring
-- **Humanly**: Exercise
+- **Humanly**: movie
 
 ## ⤵️ Experience
 - 2017.02.08 ~ 2020.02.06 - 양운고등학교 컴퓨터과 졸업
